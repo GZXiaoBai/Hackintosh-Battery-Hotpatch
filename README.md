@@ -28,9 +28,14 @@ Hotpatch for some computer‘s Battery
 - 将该方法更名为一个未被利用的名称，通常习惯以X替换第一个字母，只要不出现重复定义即可
 - 利用利用Hackintool计算XHPF的十六进制代码，最终config的更名应填
   - Comment     change MHPF,1,N to XHPF
+  
   - Find        42545354 0A
+
   - Replace     58545354 0A
-3、同时你的更名需要确保具有唯一性，不能有重复及相同的出现
+  
+    
+  
+    3、同时你的更名需要确保具有唯一性，不能有重复及相同的出现
 
 ## 检查Mutex是否置0
 如果出现电量显示0%的情况，你需要检查Mutex，确保他们全部为0
