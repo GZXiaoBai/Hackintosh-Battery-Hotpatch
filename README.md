@@ -8,6 +8,9 @@ Hotpatch for some computer‘s Battery
 ## 鸣谢
 
 特别感谢以下大佬：
+
 **iStar丶Forever**
+
 **宪武大大**
+
 **Bat.Bat**
