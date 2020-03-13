@@ -7,6 +7,8 @@ Hotpatch for some computer‘s Battery
 
 ## 鸣谢
 
+本来QQ：**3467365604**，想做热补丁的可以找我
+
 特别感谢以下大佬：
 
 **iStar丶Forever**
