@@ -41,7 +41,7 @@ Hotpatch for some computer‘s Battery
 
 ## _STA重命名特别注意！
 
-在有关_STA的重命名中（通常是双电池的禁用中），对_STA进行的重命名需要特别注意！
+由于_STA方法在ACPI里面不是唯一的，在对_STA更名时应特别注意（主要用于双电池系统的禁用和惠普的ACEL禁用），更名方法如下
 
 **CLOVER**：使用**TgtBridge**来定位_STA的准确位置。
 
