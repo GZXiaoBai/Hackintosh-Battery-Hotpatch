@@ -9,6 +9,8 @@ Hotpatch for some computer‘s Battery
 
 本人QQ：**3467365604**，想做热补丁的可以找我
 
+特别感谢**Catch Bat**对本仓库的支持，提供了补充的电池热补丁！
+
 特别感谢以下大佬：
 
 **iStar丶Forever**
